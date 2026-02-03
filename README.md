@@ -13,5 +13,5 @@ This decision is complex due to competing economic, social, and environmental co
 
 The outcome of this decision will shape housing affordability, transportation patterns, infrastructure costs, and environmental outcomes in Halifax for decades. Framing the issue as a systems-based decision highlights the feedback loops between housing supply, prices, population growth, infrastructure demand, and public acceptance—underscoring why data-informed decision-making is essential.
 
-!(img/CLD-Draft.png)
+!(img/CLD Draft.png)
 
