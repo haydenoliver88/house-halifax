@@ -15,3 +15,4 @@ The outcome of this decision will shape housing affordability, transportation pa
 
 ![CLD Draft](img/cld-draft.png)
 
+https://github.com/haydenoliver88/house-halifax.git
