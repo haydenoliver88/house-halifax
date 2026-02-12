@@ -23,6 +23,9 @@ HRM has pursued a mixed strategy, incorporating elements of both densification a
 - CMHC: Rental market reports and housing affordability indicators
 - Halifax Regional Municipality Open Data Portal: Zoning, development approvals, infrastructure data
 
+> [!TIP]
+> Check this out https://lemr.ca/data-maps/halifax/
+
 ## References (APA)
 Canada Mortgage and Housing Corporation. (2023). *Rental market report: Halifax CMA*.
 
