@@ -19,3 +19,11 @@ The outcome of this decision will shape housing affordability, transportation pa
 ![CLD Draft](img/cld-draft.png)
 
 https://github.com/haydenoliver88/house-halifax.git
+
+## Milestone 2 — Data Exploration
+
+### Visualization 1: Rental Market Conditions by Zone
+
+![Viz 1](img/viz1.png)
+
+This visualization shows the variation in renter household concentration across different areas of Halifax. Areas with a higher percentage of renter households typically experience greater housing demand pressure and are more sensitive to changes in rental prices and availability. This insight is important for the planning director because it helps identify where housing affordability challenges are most concentrated and where densification strategies may be most effective.
