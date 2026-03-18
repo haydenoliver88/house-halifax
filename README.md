@@ -27,3 +27,9 @@ https://github.com/haydenoliver88/house-halifax.git
 
 
 This visualization shows the variation in renter household concentration across different areas of Halifax. Areas with a higher percentage of renter households typically experience greater housing demand pressure and are more sensitive to changes in rental prices and availability. This insight is important for the planning director because it helps identify where housing affordability challenges are most concentrated and where densification strategies may be most effective.
+
+### Visualization 2: Vacancy Rate vs Rental Affordability
+
+![Viz 2](img/viz2.png)
+
+This visualization examines the relationship between vacancy rates and rental affordability. Lower vacancy rates typically indicate a tighter housing market, which puts upward pressure on rental prices. The relationship shown here helps support the causal link between housing supply constraints and affordability pressure, which is central to the planning director’s decision between densification and greenfield development.
