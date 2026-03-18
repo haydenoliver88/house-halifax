@@ -39,3 +39,9 @@ This visualization examines the relationship between vacancy rates and rental af
 ![Viz 3](img/viz3.png)
 
 This visualization compares estimated affordable housing costs across different areas of Halifax. The variation highlights which regions experience higher affordability pressures. This insight is critical for the planning director, as it helps identify where densification strategies may be most impactful in addressing housing affordability challenges.
+
+### Visualization 4: Vacancy Rates by Zone
+
+![Viz 4](img/viz4.png)
+
+This visualization compares vacancy rates across different areas of Halifax. Lower vacancy rates indicate tighter housing markets and greater supply constraints. Identifying zones with particularly low vacancy rates helps the planning director understand where housing shortages are most severe and where targeted development strategies may be necessary.
