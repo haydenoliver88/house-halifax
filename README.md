@@ -45,3 +45,17 @@ This visualization compares estimated affordable housing costs across different 
 ![Viz 4](img/viz4.png)
 
 This visualization compares vacancy rates across different areas of Halifax. Lower vacancy rates indicate tighter housing markets and greater supply constraints. Identifying zones with particularly low vacancy rates helps the planning director understand where housing shortages are most severe and where targeted development strategies may be necessary.
+
+## Refined Causal Loop Diagram
+
+![Refined CLD](img/cld-refined.png)
+
+The refined causal loop diagram expands the housing affordability system in Halifax by incorporating additional variables and feedback loops identified through data analysis.
+
+A key reinforcing loop (R1) shows how population growth increases housing demand, which reduces vacancy rates and drives up rental prices. This increases affordability pressure and leads to greater political pressure to act.
+
+A balancing loop (B1) demonstrates how increasing housing supply through densification or greenfield development can increase vacancy rates and help stabilize rental prices over time.
+
+A second balancing loop (B2) highlights how greenfield development increases infrastructure costs, which can influence political decision-making and limit expansion.
+
+Evidence from the visualizations supports these relationships. Visualization 2 shows a relationship between vacancy rates and affordability metrics, supporting the link between lower vacancy and higher housing costs. Visualizations 1 and 3 highlight spatial differences across zones, reinforcing how housing pressure varies across Halifax.
