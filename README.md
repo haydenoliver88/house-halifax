@@ -33,3 +33,9 @@ This visualization shows the variation in renter household concentration across 
 ![Viz 2](img/viz2.png)
 
 This visualization examines the relationship between vacancy rates and rental affordability. Lower vacancy rates typically indicate a tighter housing market, which puts upward pressure on rental prices. The relationship shown here helps support the causal link between housing supply constraints and affordability pressure, which is central to the planning director’s decision between densification and greenfield development.
+
+### Visualization 3: Affordable Housing Costs by Zone
+
+![Viz 3](img/viz3.png)
+
+This visualization compares estimated affordable housing costs across different areas of Halifax. The variation highlights which regions experience higher affordability pressures. This insight is critical for the planning director, as it helps identify where densification strategies may be most impactful in addressing housing affordability challenges.
