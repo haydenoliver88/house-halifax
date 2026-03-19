@@ -71,3 +71,55 @@ In the Halifax context, population growth driven by immigration and interprovinc
 The archetype is reinforced by feedback loops identified in the causal loop diagram. For example, increasing housing demand reduces vacancy rates, which raises rental prices and affordability pressure. This, in turn, creates political pressure to act, but without sufficient investment or timely execution, the system remains constrained.
 
 Evidence from the data supports this pattern. Visualization 2 shows a relationship between low vacancy rates and higher affordability pressures, while Visualizations 1 and 3 highlight spatial differences in housing demand and cost across Halifax. These patterns suggest that the system is operating near its limits and that underinvestment in supply is a key driver of current challenges.
+
+### Scenario 1: Status Quo (No Major Policy Change)
+
+If the Halifax Regional Municipality continues its current approach without significant policy change, housing affordability pressures are likely to worsen over the next 5–10 years. Population growth will continue to increase housing demand, as shown in the reinforcing loop identified in the causal loop diagram (Population Growth → Housing Demand → Vacancy Rate → Prices).
+
+With limited acceleration in housing supply, vacancy rates will remain low, maintaining upward pressure on rental prices. As affordability declines, more households will face financial strain, increasing overall housing insecurity. This will further amplify political pressure to act, but without structural changes, responses may remain incremental and insufficient.
+
+Spatial disparities across Halifax will likely persist or worsen. As seen in Visualization 1 and Visualization 3, certain zones already experience higher renter concentrations and affordability pressure. These areas will continue to absorb demand, intensifying congestion and strain on existing infrastructure.
+
+In the absence of significant intervention, the system will remain stuck in a reinforcing cycle where demand consistently outpaces supply. While small policy adjustments may temporarily alleviate symptoms, they will not address the underlying imbalance. This scenario suggests that maintaining the status quo is unlikely to produce meaningful improvements in housing affordability.
+
+### Scenario 2: Densification Strategy
+
+If the planning director prioritizes densification incentives, the system may begin to shift toward a more balanced state over the next 5–10 years. Increased density allows for more efficient use of existing land and infrastructure, accelerating the addition of new housing supply in high-demand areas.
+
+As housing supply increases, vacancy rates are expected to rise modestly, which can help stabilize or slow the growth of rental prices. This activates the balancing loop identified in the causal loop diagram (Housing Supply → Vacancy Rate → Prices → Affordability Pressure), reducing overall pressure in the system.
+
+Densification also supports more sustainable urban development by reducing transportation demand and making better use of public services. Areas identified in Visualizations 1 and 3 as having high renter concentrations would particularly benefit from targeted densification, as it directly addresses localized housing shortages.
+
+However, this approach may face resistance from existing residents concerned about neighborhood change, increased congestion, or strain on local infrastructure. Implementation challenges, including zoning reform and approval timelines, may also slow progress.
+
+Overall, densification offers a more effective long-term solution to affordability challenges, but its success depends on consistent policy support and the ability to overcome political and social resistance.
+
+### Scenario 3: Greenfield Development Strategy
+
+If the planning director prioritizes greenfield development, the system will expand outward to accommodate growing housing demand. This approach can increase housing supply relatively quickly by developing new land on the outskirts of Halifax.
+
+In the short term, increased supply may lead to a slight improvement in vacancy rates and moderate pressure on rental prices. However, this strategy introduces new challenges related to infrastructure costs and long-term sustainability. As shown in the causal loop diagram, greenfield development increases infrastructure costs, which can create additional financial pressure on the municipality and influence future decision-making.
+
+Over time, reliance on greenfield development may reinforce patterns of urban sprawl, increasing transportation demand and reducing overall efficiency. While this approach addresses supply constraints in the short term, it does not fully resolve affordability issues, particularly in central areas where demand remains highest.
+
+Visualizations highlighting spatial differences suggest that greenfield development may not effectively target the zones experiencing the greatest affordability pressure. As a result, benefits may be unevenly distributed.
+
+This scenario demonstrates that while greenfield development can contribute to increased supply, it may create new long-term challenges and does not provide as strong a solution to affordability as densification.
+
+### Leverage Point Analysis
+
+The most effective leverage point in this system is increasing housing supply through targeted densification incentives. This intervention directly impacts multiple feedback loops, particularly the balancing loop between housing supply, vacancy rates, and rental prices.
+
+By increasing supply in high-demand areas, densification can improve vacancy rates and reduce upward pressure on housing costs. This makes it a high-impact intervention relative to effort, as it leverages existing infrastructure and land more efficiently than greenfield expansion.
+
+However, this approach may face resistance from local communities and require policy changes such as zoning reform and faster approval processes. Despite these challenges, targeting densification represents the most effective strategy for addressing the root causes of housing affordability pressure in Halifax.
+
+## Implications for the Decision
+
+The analysis highlights that Halifax’s housing system is constrained by a mismatch between rapid population growth and slower increases in housing supply. Evidence from the visualizations and system dynamics suggests that low vacancy rates are closely linked to rising housing costs and affordability pressure.
+
+Among the options considered, densification appears to be the most effective strategy for addressing these challenges. It directly increases housing supply in high-demand areas and activates balancing feedback loops that can stabilize prices over time. In contrast, maintaining the status quo is likely to worsen affordability issues, while greenfield development introduces additional infrastructure costs and may not effectively target areas of highest need.
+
+However, uncertainty remains regarding the speed of implementation and potential resistance to densification policies. External factors such as economic conditions and migration trends may also influence outcomes.
+
+Overall, the analysis suggests that prioritizing densification provides the strongest pathway toward improving housing affordability, while acknowledging the need for careful implementation and ongoing monitoring.
