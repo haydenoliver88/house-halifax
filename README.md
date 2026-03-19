@@ -59,3 +59,15 @@ A balancing loop (B1) demonstrates how increasing housing supply through densifi
 A second balancing loop (B2) highlights how greenfield development increases infrastructure costs, which can influence political decision-making and limit expansion.
 
 Evidence from the visualizations supports these relationships. Visualization 2 shows a relationship between vacancy rates and affordability metrics, supporting the link between lower vacancy and higher housing costs. Visualizations 1 and 3 highlight spatial differences across zones, reinforcing how housing pressure varies across Halifax.
+
+## Milestone 3 — Analysis
+
+### System Archetype: Growth and Underinvestment
+
+The housing affordability challenge in Halifax reflects a classic “Growth and Underinvestment” system archetype. In this structure, rapid population growth increases demand for housing, but investment in housing supply and supporting infrastructure does not keep pace. As a result, the system approaches capacity limits, leading to worsening outcomes such as rising rental prices and declining affordability.
+
+In the Halifax context, population growth driven by immigration and interprovincial migration increases housing demand. However, delays in development, zoning constraints, and infrastructure limitations restrict the speed at which new housing supply can be added. This creates sustained pressure on vacancy rates, which remain low, and drives up rental prices.
+
+The archetype is reinforced by feedback loops identified in the causal loop diagram. For example, increasing housing demand reduces vacancy rates, which raises rental prices and affordability pressure. This, in turn, creates political pressure to act, but without sufficient investment or timely execution, the system remains constrained.
+
+Evidence from the data supports this pattern. Visualization 2 shows a relationship between low vacancy rates and higher affordability pressures, while Visualizations 1 and 3 highlight spatial differences in housing demand and cost across Halifax. These patterns suggest that the system is operating near its limits and that underinvestment in supply is a key driver of current challenges.
