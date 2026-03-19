@@ -74,6 +74,9 @@ Evidence from the data supports this pattern. Visualization 2 shows a relationsh
 
 ### System Archetype Diagram
 
+![Archetype Diagram](img/cld-archetype.png)
+
+This diagram illustrates the “Growth and Underinvestment” dynamic shaping housing affordability in Halifax. As population growth increases housing demand, vacancy rates decline, which drives up rental prices and creates greater affordability pressure. This reinforces political pressure to act, but if investment in housing supply does not keep pace, the system remains constrained. The diagram also shows how policy responses such as densification and greenfield development influence housing supply and vacancy rates through balancing loops. While increasing supply can help stabilize prices over time, delays in development and rising infrastructure costs can limit the effectiveness of these interventions. Overall, the diagram highlights how interconnected feedback loops drive the housing affordability challenge and why targeted densification is the most effective leverage point.
 
 ### Scenario Narratives
 
