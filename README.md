@@ -72,6 +72,11 @@ The archetype is reinforced by feedback loops identified in the causal loop diag
 
 Evidence from the data supports this pattern. Visualization 2 shows a relationship between low vacancy rates and higher affordability pressures, while Visualizations 1 and 3 highlight spatial differences in housing demand and cost across Halifax. These patterns suggest that the system is operating near its limits and that underinvestment in supply is a key driver of current challenges.
 
+### System Archetype Diagram
+
+
+### Scenario Narratives
+
 ### Scenario 1: Status Quo (No Major Policy Change)
 
 If the Halifax Regional Municipality continues its current approach without significant policy change, housing affordability pressures are likely to worsen over the next 5–10 years. Population growth will continue to increase housing demand, as shown in the reinforcing loop identified in the causal loop diagram (Population Growth → Housing Demand → Vacancy Rate → Prices).
