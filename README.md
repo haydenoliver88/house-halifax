@@ -16,6 +16,14 @@ This decision is complex due to competing economic, social, and environmental co
 
 The outcome of this decision will shape housing affordability, transportation patterns, infrastructure costs, and environmental outcomes in Halifax for decades. Framing the issue as a systems-based decision highlights the feedback loops between housing supply, prices, population growth, infrastructure demand, and public acceptance—underscoring why data-informed decision-making is essential.
 
+## Table of Contents
+- [Background](#background)
+- [Data Sources](#data-sources)
+- [Exploratory Findings](#exploratory-findings)
+- [Recommendation](#recommendation)
+- [Limitations and Future Work](#limitations-and-future-work)
+- [References](#references)
+
 ![CLD Draft](img/cld-draft.png)
 
 https://github.com/haydenoliver88/house-halifax.git
@@ -131,3 +139,28 @@ Among the options considered, densification appears to be the most effective str
 However, uncertainty remains regarding the speed of implementation and potential resistance to densification policies. External factors such as economic conditions and migration trends may also influence outcomes.
 
 Overall, the analysis suggests that prioritizing densification provides the strongest pathway toward improving housing affordability, while acknowledging the need for careful implementation and ongoing monitoring.
+
+## Milestone 4 - Synthesis & Portfolio
+
+## Recommendation
+
+The Halifax Regional Municipality should prioritize targeted densification incentives as the primary strategy for improving housing affordability over the next five to ten years.
+
+The analysis from this project shows that housing affordability challenges in Halifax are largely driven by sustained population growth and insufficient housing supply. The data visualizations highlight consistently low vacancy rates and rising rental costs across different zones, while the system dynamics analysis shows how these pressures reinforce one another over time. Without meaningful intervention, these trends are likely to continue, further worsening affordability.
+
+Densification is the strongest policy option because it increases housing supply in areas where demand is already highest. This makes it more effective than greenfield development at improving vacancy rates and stabilizing rental prices in the short to medium term. It also allows the municipality to make better use of existing infrastructure, which is important given the financial and logistical challenges associated with expanding outward. In contrast, greenfield development may increase supply but often comes with higher infrastructure costs and slower impact on the areas experiencing the most pressure.
+
+However, this recommendation depends on successful implementation. Densification efforts may face resistance from communities, zoning restrictions, and delays in the approval process. External factors such as construction costs, interest rates, and migration patterns may also influence outcomes. If these constraints significantly limit the pace of development, the effectiveness of densification could be reduced.
+
+To move forward, the municipality should focus on accelerating zoning reform, streamlining approval processes, and identifying priority areas where densification can have the greatest impact. It should also align infrastructure planning with these development goals to ensure long-term sustainability.
+
+While the analysis provides a strong directional recommendation, it would benefit from more detailed time-series data on housing supply, rent trends, and neighborhood-level development patterns. Even with these limitations, the evidence supports densification as the most effective strategy for addressing housing affordability in Halifax.
+
+## Limitations and Future Work
+
+This project is limited by the availability and structure of publicly accessible housing data. Some datasets required interpretation and simplification, which may reduce precision. Additionally, while the analysis identifies relationships between variables such as vacancy rates, rental prices, and housing supply, it does not establish direct causation.
+
+Future work could include more detailed time-series analysis to better understand how housing conditions evolve over time, as well as incorporating additional variables such as income levels, construction timelines, and policy changes. Including more granular, neighborhood-level data would also improve the accuracy of the analysis and allow for more targeted recommendations.
+
+
+
