@@ -162,5 +162,9 @@ This project is limited by the availability and structure of publicly accessible
 
 Future work could include more detailed time-series analysis to better understand how housing conditions evolve over time, as well as incorporating additional variables such as income levels, construction timelines, and policy changes. Including more granular, neighborhood-level data would also improve the accuracy of the analysis and allow for more targeted recommendations.
 
+## Conclusion
+
+This project demonstrates that housing affordability in Halifax is driven by interconnected system dynamics rather than a single factor. Population growth, constrained housing supply, and persistently low vacancy rates work together to increase rental prices and affordability pressure over time. The analysis shows that without meaningful intervention, these challenges are likely to intensify. Among the policy options considered, targeted densification provides the most effective path forward by increasing housing supply in high-demand areas and activating balancing forces within the system. While implementation challenges and external uncertainties remain, the findings highlight the importance of proactive, data-informed decision-making. Overall, this project reinforces the value of combining data analysis with systems thinking to better understand complex policy problems and support more effective long-term solutions.
+
 
 
