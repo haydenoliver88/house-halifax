@@ -1,9 +1,6 @@
 # Balancing Density and Expansion: Housing Affordability in Halifax
 Decision-focused term project for BSAD 482 examining housing affordability in Halifax. The project frames a policy choice faced by the municipal planning director between densification incentives and greenfield development, using systems thinking, causal loop diagrams, and public datasets.
 
-> [!WARNING]
-> There are others doing this already in the class. There is a requirement to be unique to you.  Consider pivoting to your hometown.
-
 # Balancing Density and Expansion: Housing Supply Decisions in Halifax
 
 ## Decision Statement
